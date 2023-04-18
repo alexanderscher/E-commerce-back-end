@@ -23,12 +23,12 @@ This project sets up CRUD routes to create an API using Express, Node.js, and Se
 
 This API provides the following CRUD routes:
 
-GET /api/products: Get all products
-GET /api/products/:id: Get a specific product
-POST /api/products: Create a new product
-PUT /api/products/:id: Update a specific product
-DELETE /api/products/:id: Delete a specific product
-Make sure to use a tool such as Postman to test the routes.
+- GET /api/products: Get all products
+- GET /api/products/:id: Get a specific product
+- POST /api/products: Create a new product
+- PUT /api/products/:id: Update a specific product
+  DELETE /api/products/:id: Delete a specific product
+  Make sure to use a tool such as Postman to test the routes.
 
 ## Video Demo
 
@@ -37,7 +37,7 @@ https://drive.google.com/file/d/1xo4HACi0ipGLLGqiUYBF36e2eZXowI0y/view
 
 ## Technologies Used
 
-Node.js
-Express
-Sequelize
-PostgreSQL
+- Node.js
+- Express
+- Sequelize
+- SQL
