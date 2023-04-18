@@ -42,4 +42,5 @@ https://drive.google.com/file/d/1xo4HACi0ipGLLGqiUYBF36e2eZXowI0y/view
 - Sequelize
 - SQL
 
-![Uploading Screenshot 2023-04-18 at 3.58.18 PM.png…]()
+<img width="815" alt="Screenshot 2023-04-18 at 3 59 38 PM" src="https://user-images.githubusercontent.com/108595129/232922916-26e8171f-f509-40ef-955d-0d3e4ef1461f.png">
+
